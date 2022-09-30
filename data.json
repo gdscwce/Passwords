@@ -164,15 +164,9 @@
       "difficulty":"easy",
       "chractersUsed":"numbers",
       "Password":"696969696",
+
 },
 {
-
-      "id":28,
-      "difficulty":"Hard",
-      "chractersUsed":"numbers",
-      "Password":"9135786428",
-},
-
       "id":27,
       "difficulty":"hard",
       "chractersUsed":"numbers",
@@ -187,6 +181,12 @@
       "chractersUsed":"numbers",
       "Password":"67656569",
 
-}
+},
+    {
+      "id":29,
+      "difficulty":"Hard",
+      "chractersUsed":"numbers+characters",
+      "Password":"ILOVE69",
 
+}
 ]
