@@ -364,9 +364,13 @@
       "chractersUsed":["alphabets","numbers","special characters"],
       "Password":"Boom@123",
 
+},
+{
+      "id":51,
+      "difficulty":"very easy",
+      "chractersUsed":"numbers",
+      "Password":"9876543210",
 }
-
-
 ]
 
 
