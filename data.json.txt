@@ -2466,6 +2466,12 @@
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "aLbert@hwking"
 
+    },
+    {
+        "id": 192,
+        "difficulty": "hard",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "jelly22fi$h"
     }
 
 ]
