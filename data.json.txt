@@ -2512,4 +2512,10 @@
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "sn00pdoggyd0G"
     },
+        {
+        "id": 201,
+        "difficulty": "medium",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "vRM#5465"
+    },
 ]
