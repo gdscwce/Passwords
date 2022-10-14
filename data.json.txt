@@ -2512,4 +2512,10 @@
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "sn00pdoggyd0G"
     },
+    {
+        "id": 201,
+        "difficulty": "easy",
+        "chractersUsed": "numbers",
+        "Password": "987654321"
+    },
 ]
