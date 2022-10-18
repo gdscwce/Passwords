@@ -2592,4 +2592,10 @@
         "chractersUsed": "numbers",
         "Password": "skjdhk@$264786":"./5678"
     },
+    {
+        "id": 213,
+        "difficulty": "hard",
+        "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
+        "Password": "idEW%#$987"
+    },
 ]
