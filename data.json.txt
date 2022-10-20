@@ -2646,6 +2646,12 @@
     },
     {
         "id": 205,
+        "difficulty": "very easy",
+        "chractersUsed": "numbers",
+        "Password": "0987654321"
+    },
+    {
+        "id": 205,
         "difficulty": "difficult",
         "chractersUsed": "2Uppercase,2Lowercase,SpecialChar&num",
         "Password": "IDfd#15"
