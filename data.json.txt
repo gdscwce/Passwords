@@ -2512,7 +2512,13 @@
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "sn00pdoggyd0G"
     },
-    {      
+     {
+        "id": 201,
+        "difficulty": "easy",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "India12345"
+     },
+     {      
         "id": 201,
         "difficulty": "medium",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
