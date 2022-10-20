@@ -2645,6 +2645,12 @@
         "Password": "skjdhk@$264786":"./5678"
     },
     {
+     "id": 1,
+        "difficulty": "very easy",
+        "chractersUsed": "character",
+        "Password": "batman"
+    },
+    {
         "id": 211,
         "difficulty": "hard",
         "chractersUsed": "numbers,lettes,special symbols",
