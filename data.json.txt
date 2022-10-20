@@ -1123,14 +1123,6 @@
        "difficulty":"difficult",
        "chractersUsed":"numbers+characters+symbol",
        "Password":"580lGyVw9z^B"
-
-    },
-       {      
-      "id":171,
-      "difficulty":"medium",
-      "chractersUsed":"numbers+characters",
-      "Password":"Rohan@1234",
-}
     }{
        "id":171,
        "difficulty":"difficult",
