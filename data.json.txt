@@ -2512,6 +2512,36 @@
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "sn00pdoggyd0G"
     },
+    {      
+        "id": 201,
+        "difficulty": "medium",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "Codechef@2022"
+    },
+    {
+        "id": 201,
+        "difficulty": "medium",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "ANnnso@19131sazc"
+        },
+    {
+        "id": 201,
+        "difficulty": "hard"
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "ooyoh@4Ueph2eirao@8907"
+    },
+    {
+        "id": 201,         
+        "difficulty": "medium",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "/\/1dhi"
+    },
+    {
+        "id": 201,
+        "difficulty": "very easy",
+        "charactersUsed": "lowercase", "uppercase",
+        "Password": "Password"
+    },
      {
         "id": 201,
         "difficulty": "medium",
@@ -2522,16 +2552,38 @@
         "id": 202,
         "difficulty": "medium",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
-        "Password": "loud@me333"
-        }
-
+        "Password": "Rick@Astley"
+    },
+    {
+        "id": 203,
+        "difficulty": "hard",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "CH33Z3@F4RT@_"
+    },
+    {
+        "id": 204,
+        "difficulty": "easy",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "Bill_Gates"
+    },
+    {
+        "id": 205,
+        "difficulty": "easy",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "Hulk_Smash"
+    },
+    {
+        "id": 206,
+        "difficulty": "easy",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "xX_name_Xx"
+        },
         {
         "id": 203,
         "difficulty": "hard",
         "chractersUsed": "numbers", "uppercase", "special characters", "lowercase",
         "Password": "87UIOER@#pqso"
-
-    },
+        },
     {
         "id": 203,
         "difficulty": "medium",
@@ -2592,10 +2644,28 @@
         "chractersUsed": "numbers",
         "Password": "skjdhk@$264786":"./5678"
     },
-     {
+    {
         "id": 205,
         "difficulty": "very easy",
         "chractersUsed": "numbers",
         "Password": "0987654321"
+    },
+    {
+        "id": 205,
+        "difficulty": "difficult",
+        "chractersUsed": "2Uppercase,2Lowercase,SpecialChar&num",
+        "Password": "IDfd#15"
+    },
+    {
+        "id": 211,
+        "difficulty": "hard",
+        "chractersUsed": "numbers,lettes,special symbols",
+        "Password": "Kasli@2404"
+    },
+    {
+        "id": 1,
+        "difficulty": "very easy",
+        "chractersUsed": "numbers, letters, Symbols",
+        "Password": "Abcd@1478"
     },
 ]
