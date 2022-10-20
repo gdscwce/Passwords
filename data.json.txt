@@ -2512,12 +2512,18 @@
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "sn00pdoggyd0G"
     },
-        {
+    {
+        "id": 201,
+        "difficulty": "easy",
+        "chractersUsed": "numbers",
+        "Password": "987654321"
+    },
+    {
         "id": 201,
         "difficulty": "medium",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "vRM#5465"
-        },
+     },
      {
         "id": 201,
         "difficulty": "easy",
