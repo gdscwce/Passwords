@@ -2690,4 +2690,10 @@
         "chractersUsed": "numbers, letters, Symbols",
         "Password": "Abcd@1478"
     },
+     {
+       "id":213,
+       "difficulty":"difficult",
+       "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
+       "Password":"Ab312#*"
+    },
 ]
