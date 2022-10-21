@@ -2697,7 +2697,7 @@
        "Password":"73#$12"
      },
      {
-       "id":213,
+       "id":214,
        "difficulty":"difficult",
        "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"Ab312#*"
@@ -2707,5 +2707,47 @@
        "difficulty":"difficult",
        "charactersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"Y4#1k@*?R"
+    },
+    {
+       "id":215,
+       "difficulty":"difficult",
+       "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
+       "Password":"D!c+@+0r-@l1ad!N"
+    },
+    {
+       "id":216,
+       "difficulty":"difficult",
+       "chractersUsed":"characters",
+       "Password":"asjshdgfuefguefcbduchsdufkwejfhbkxjb"
+    },
+    {
+       "id":217,
+       "difficulty":"difficult",
+       "chractersUsed":"characters,numbers",
+       "Password":"sa9d8w9e58d5x6z1"
+    },
+    {
+       "id":218,
+       "difficulty":"easy",
+       "chractersUsed":"characters",
+       "Password":"FullName"
+    },
+    {
+       "id":219,
+       "difficulty":"easy",
+       "chractersUsed":"characters",
+       "Password":"password"
+    },
+    {
+       "id":220,
+       "difficulty":"very difficult",
+       "chractersUsed":"characters,numbers,special_character",
+       "Password":"SJ56@*&ad78213name"
+    },
+    {
+       "id":249,
+       "difficulty":"difficult",
+       "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
+       "Password":"l*7*@#$SX"
     },
 ]
