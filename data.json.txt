@@ -2695,5 +2695,11 @@
        "difficulty":"easy",
        "chractersUsed":"numbers+characters",
        "Password":"73#$12"
+     },
+     {
+       "id":213,
+       "difficulty":"difficult",
+       "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
+       "Password":"Ab312#*"
     },
 ]
