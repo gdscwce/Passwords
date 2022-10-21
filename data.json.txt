@@ -2702,4 +2702,10 @@
        "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"Ab312#*"
     },
+    {
+    "id":214,
+    "difficulty":"difficult",
+    "charactersUsed":"Uppercase,Lowercase,Specialchar,Number",
+    "Password":"jaf!fadanaW1@3"
+    },
 ]
