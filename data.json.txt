@@ -2738,4 +2738,10 @@
        "chractersUsed":"characters,numbers,special_character",
        "Password":"SJ56@*&ad78213name"
     },
+    {
+       "id":249,
+       "difficulty":"difficult",
+       "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
+       "Password":"l*7*@#$SX"
+    },
 ]
