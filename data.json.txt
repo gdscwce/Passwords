@@ -2756,4 +2756,10 @@
        "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"l*7*@#$SX"
     },
+    {
+       "id":280,
+       "difficulty":"difficult",
+       "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
+       "Password":"l*%69Abbg"
+    },
 ]
