@@ -2762,4 +2762,10 @@
        "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"l*%69Abbg"
     },
+    {
+       "id":281,
+       "difficulty":"medium",
+       "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
+       "Password":"Mota_Bhai#220755"
+    },
 ]
