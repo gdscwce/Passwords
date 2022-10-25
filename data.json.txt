@@ -2763,9 +2763,24 @@
        "Password":"l*%69Abbg"
     },
     {
-       "id":281,
+       "id":283,
        "difficulty":"medium",
        "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"Mota_Bhai#220755"
     },
+
+    {
+       "id":281,
+       "difficulty":"difficult",
+       "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
+       "Password":"E18pk2110144@786"
+    },
+
+        {
+       "id":282,
+       "difficulty":"difficult",
+       "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
+       "Password":"7&8*AsG124"
+    }
+
 ]
