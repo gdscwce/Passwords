@@ -2782,5 +2782,11 @@
        "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"7&8*AsG124"
     }
+       {
+       "id":283,
+       "difficulty":"difficult",
+       "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
+       "Password":"Namitha@1234"
+    }
 
 ]
