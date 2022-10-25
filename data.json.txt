@@ -2511,279 +2511,279 @@
         "Password": "987654321"
     },
     {
-        "id": 201,
+        "id": 202,
         "difficulty": "medium",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "vRM#5465"
      },
      {
-        "id": 201,
+        "id": 203,
         "difficulty": "easy",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "India12345"
      },
      {      
-        "id": 201,
+        "id": 204,
         "difficulty": "medium",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "Codechef@2022"
     },
     {
-        "id": 201,
+        "id": 205,
         "difficulty": "medium",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "ANnnso@19131sazc"
         },
     {
-        "id": 201,
+        "id": 206,
         "difficulty": "hard"
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "ooyoh@4Ueph2eirao@8907"
     },
     {
-        "id": 201,         
+        "id": 207,         
         "difficulty": "medium",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "/\/1dhi"
     },
     {
-        "id": 201,
+        "id": 208,
         "difficulty": "very easy",
         "charactersUsed": "lowercase", "uppercase",
         "Password": "Password"
     },
      {
-        "id": 201,
+        "id": 209,
         "difficulty": "medium",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "@vEngeRs"
     },
     {
-        "id": 202,
+        "id": 210,
         "difficulty": "medium",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "Rick@Astley"
     },
     {
-        "id": 203,
+        "id": 211,
         "difficulty": "hard",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "CH33Z3@F4RT@_"
     },
     {
-        "id": 204,
+        "id": 212,
         "difficulty": "easy",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "Bill_Gates"
     },
     {
-        "id": 205,
+        "id": 213,
         "difficulty": "easy",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "Hulk_Smash"
     },
     {
-        "id": 206,
+        "id": 214,
         "difficulty": "easy",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "xX_name_Xx"
         },
         {
-        "id": 203,
+        "id": 215,
         "difficulty": "hard",
         "chractersUsed": "numbers", "uppercase", "special characters", "lowercase",
         "Password": "87UIOER@#pqso"
         },
     {
-        "id": 203,
+        "id": 216,
         "difficulty": "medium",
         "charactersUsed": "lowercase", "uppercase",
         "Password": "ARMYrOcK"
     },
     {
-        "id": 204,
+        "id": 217,
         "difficulty": "hard",
         "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
         "Password": "Mega@King459"
     },
     {
-        "id": 205,
+        "id": 218,
         "difficulty": "hard",
         "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
         "Password": "This_is_my_Password@200"
     },
     {
-        "id": 206,
+        "id": 219,
         "difficulty": "hard",
         "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
         "Password": "HiGuys$231"
     },
     {
-        "id": 207,
+        "id": 220,
         "difficulty": "hard",
         "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
         "Password": "Anonymous$2020"
     },
     {
-        "id": 208,
+        "id": 221,
         "difficulty": "hard",
         "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
         "Password": "My_Name_Is_Khan@2022"
     },
     {
-        "id": 209,
+        "id": 222,
         "difficulty": "hard",
         "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
         "Password": "HelloAnonymous@2022"
     },
     {
-        "id": 210,
+        "id": 223,
         "difficulty": "hard",
         "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
         "Password": "Elliot@Anonymous2022"
    },
      {
-        "id": 3,
+        "id": 224,
         "difficulty": "medium",
         "chractersUsed": "special char , num,Uppercase & Lowercase",
         "Password": "RaHul12fdkdfhdkjfhkdhgkjhfkghkfghfm3"
         },
     {
-        "id": 204,
+        "id": 225,
         "difficulty": "very easy",
         "chractersUsed": "numbers",
         "Password": "skjdhk@$264786":"./5678"
     },
     {
-        "id": 213,
+        "id": 226,
         "difficulty": "hard",
         "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
         "Password": "idEW%#$987"
     },
     {
-         "id":205,
+         "id":227,
          "difficulty": "very easy",
          "charactersUsed":"character+number",
          "Password":"admin123",
      },
     }
-        "id": 205,
+        "id": 228,
         "difficulty": "very easy",
         "chractersUsed": "numbers",
         "Password": "0987654321"
     },
     {
-        "id": 205,
+        "id": 229,
         "difficulty": "difficult",
         "chractersUsed": "2Uppercase,2Lowercase,SpecialChar&num",
         "Password": "IDfd#15"
     },
     {
-        "id": 211,
+        "id": 230,
         "difficulty": "hard",
         "chractersUsed": "numbers,lettes,special symbols",
         "Password": "Kasli@2404"
     },
     {
-        "id": 1,
+        "id": 231,
         "difficulty": "very easy",
         "chractersUsed": "numbers, letters, Symbols",
         "Password": "Abcd@1478"
     },
     {
-       "id":213,
+       "id":232,
        "difficulty":"easy",
        "chractersUsed":"numbers+characters",
        "Password":"73#$12"
      },
      {
-       "id":214,
+       "id":234,
        "difficulty":"difficult",
        "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"Ab312#*"
     },
     {
-    "id":214,
+    "id":235,
     "difficulty":"difficult",
     "charactersUsed":"Uppercase,Lowercase,Specialchar,Number",
     "Password":"jaf!fadanaW1@3"
     },
     {
-       "id":219,
+       "id":236,
        "difficulty":"difficult",
        "charactersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"Y4#1k@*?R"
     },
     {
-       "id":215,
+       "id":237,
        "difficulty":"difficult",
        "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"D!c+@+0r-@l1ad!N"
     },
     {
-       "id":216,
+       "id":238,
        "difficulty":"difficult",
        "chractersUsed":"characters",
        "Password":"asjshdgfuefguefcbduchsdufkwejfhbkxjb"
     },
     {
-       "id":217,
+       "id":239,
        "difficulty":"difficult",
        "chractersUsed":"characters,numbers",
        "Password":"sa9d8w9e58d5x6z1"
     },
     {
-       "id":218,
+       "id":240,
        "difficulty":"easy",
        "chractersUsed":"characters",
        "Password":"FullName"
     },
     {
-       "id":219,
+       "id":241,
        "difficulty":"easy",
        "chractersUsed":"characters",
        "Password":"password"
     },
     {
-       "id":220,
+       "id":242,
        "difficulty":"very difficult",
        "chractersUsed":"characters,numbers,special_character",
        "Password":"SJ56@*&ad78213name"
     },
     {
-       "id":249,
+       "id":243,
        "difficulty":"difficult",
        "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"l*7*@#$SX"
     },
     {
-       "id":280,
+       "id":244,
        "difficulty":"difficult",
        "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"l*%69Abbg"
     },
     {
-       "id":283,
+       "id":245,
        "difficulty":"medium",
        "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"Mota_Bhai#220755"
     },
 
     {
-       "id":281,
+       "id":246,
        "difficulty":"difficult",
        "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"E18pk2110144@786"
     },
 
         {
-       "id":282,
+       "id":247,
        "difficulty":"difficult",
        "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"7&8*AsG124"
     }
        {
-       "id":283,
+       "id":248,
        "difficulty":"difficult",
        "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"Namitha@1234"
