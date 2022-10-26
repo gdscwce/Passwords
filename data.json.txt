@@ -2762,4 +2762,10 @@
        "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
        "Password":"l*%69Abbg"
     },
+   {
+       "id":281,
+       "difficulty":"hard",
+       "chractersUsed":"Uppercase,Lowercase,Special_Character, Number",
+       "Password":"Name@2004dobi:Name"
+    },
 ]
