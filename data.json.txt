@@ -2784,6 +2784,12 @@
       "chractersUsed":"numbers+characters",
       "Password":"gau123",
    },
-
+   
+ {
+      "id":250,
+      "difficulty":"medium",
+      "chractersUsed":"Uppercase,Lowercase,SpecialChar, Number",
+      "Password":"RIP@myodds7",
+   },
 
 ]
